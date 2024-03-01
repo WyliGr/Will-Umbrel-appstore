@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: will-homepage
+name: Homepage
+tagline: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+icon: https://raw.githubusercontent.com/gethomepage/homepage/main/public/apple-touch-icon.png
+category: Development
+version: "0.0.8"
+port: 3005
+description: >-
+  A modern, fully static, fast, secure fully proxied, highly customizable application dashboard. 
+  Easily configured via YAML files or through docker label discovery.
+
+developer: gethomepage
+website: https://gethomepage.dev/latest/
+submitter: Will
+submission: https://github.com/gethomepage
+repo: https://github.com/gethomepage/homepage
+support: https://discord.com/invite/k4ruYNrudu
+gallery:
+  - https://github.com/gethomepage/homepage/blob/main/images/1.png?raw=true
+  - https://github.com/gethomepage/homepage/blob/main/images/5.png?raw=true
+releaseNotes: >-
+  See : https://github.com/gethomepage/homepage/releases/tag/v0.8.8
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

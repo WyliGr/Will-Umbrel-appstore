@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: will-pingvin-share
+name: Pingvin Share
+tagline: Pingvin Share is self-hosted file sharing platform and an alternative for WeTransfer.
+icon: https://cdn.discordapp.com/attachments/1006535387725967362/1213087863063842926/Group_1_4.png?ex=65f4331c&is=65e1be1c&hm=750def7ee38a8aace3ed2f05410a75fec5af87a4c5ce870a237586f98c2d7c43&
+category: Development
+version: "0.22.2"
+port: 3000
+description: >-
+  A self-hosted file sharing platform that combines lightness and beauty. 
+  Perfect for seamless and efficient file sharing.
+
+developer: stonith404
+website: https://pingvin-share.dev.eliasschneider.com/
+submitter: Will
+submission: https://github.com/stonith404/pingvin-share
+repo: https://github.com/stonith404/pingvin-share
+support: https://github.com/stonith404/pingvin-share/blob/main/CONTRIBUTING.md
+gallery:
+  - https://user-images.githubusercontent.com/58886915/225038319-b2ef742c-3a74-4eb6-9689-4207a36842a4.png
+releaseNotes: >-
+  See : https://github.com/stonith404/pingvin-share/releases/tag/v0.22.2
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
